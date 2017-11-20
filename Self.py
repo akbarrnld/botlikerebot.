@@ -10,6 +10,26 @@ cl = TOBY.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
+cl = TOBY.LINE()
+cl.login(qr=True)
+cl.loginResult()
+
+cl = TOBY.LINE()
+cl.login(qr=True)
+cl.loginResult()
+
+cl = TOBY.LINE()
+cl.login(qr=True)
+cl.loginResult()
+
+cl = TOBY.LINE()
+cl.login(qr=True)
+cl.loginResult()
+
+cl = TOBY.LINE()
+cl.login(qr=True)
+cl.loginResult()
+
 # client_id = ''
 # client_secret = ''
 # access_token = ''
