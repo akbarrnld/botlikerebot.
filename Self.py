@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import REBOT
-from TOBY.lib.curve.ttypes import *
+from REBOT.lib.curve.ttypes import *
 from datetime import datetime
 # from imgurpython import ImgurClient
 import time,random,sys,json,codecs,threading,glob,re
