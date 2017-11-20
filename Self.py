@@ -1,32 +1,12 @@
 # -*- coding: utf-8 -*-
 
-import TOBY
+import REBOT
 from TOBY.lib.curve.ttypes import *
 from datetime import datetime
 # from imgurpython import ImgurClient
 import time,random,sys,json,codecs,threading,glob,re
 
-cl = TOBY.LINE()
-cl.login(qr=True)
-cl.loginResult()
-
-cl = TOBY.LINE()
-cl.login(qr=True)
-cl.loginResult()
-
-cl = TOBY.LINE()
-cl.login(qr=True)
-cl.loginResult()
-
-cl = TOBY.LINE()
-cl.login(qr=True)
-cl.loginResult()
-
-cl = TOBY.LINE()
-cl.login(qr=True)
-cl.loginResult()
-
-cl = TOBY.LINE()
+cl = REBOT.LINE()
 cl.login(qr=True)
 cl.loginResult()
 
